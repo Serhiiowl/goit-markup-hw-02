@@ -140,3 +140,13 @@
     footer {
         background-color: #2E2F42;
     }
+
+    .studio-footer {
+        color: #F4F4FD;
+        text-decoration: none;
+        line-height: 1.167;
+    }
+
+    .p-footer {
+        color: #F4F4FD;
+    }
