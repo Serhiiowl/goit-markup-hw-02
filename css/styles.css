@@ -1,4 +1,142 @@
-body {
-    font-family: "Roboto";
-    background-color: #F4F4FD;
-}
+    body {
+        font-family: "Roboto";
+        background-color: #ffffff;
+        line-height: 1.5;
+
+    }
+
+
+
+
+    .logo {
+        color: #4D5AE5;
+        font-family: Raleway;
+        font-size: 18px;
+        font-weight: 700;
+        text-transform: uppercase;
+        text-decoration: none;
+    }
+
+    .logo:focus {
+        color: #404BBF;
+    }
+
+    .studio:hover {
+        color: #404BBF;
+
+    }
+
+    .studio:focus {
+        color: #404BBF;
+
+    }
+
+    .studio:active {
+        text-decoration: underline 2px;
+        color: #404BBF;
+    }
+
+
+    .studio {
+        color: #2E2F42;
+        text-decoration: none;
+        line-height: 1.167;
+    }
+
+    .link-menu {
+        color: #2E2F42;
+        font-weight: 500;
+        font-size: 16px;
+        font-style: bold;
+        text-decoration: none;
+    }
+
+    .link-menu:hover {
+        color: #404BBF;
+    }
+
+    .link-menu:focus {
+        color: #404BBF;
+    }
+
+    .adress {
+        font-style: normal;
+        color: #434455;
+        font-weight: 400;
+        font-size: 16px;
+        text-decoration: none;
+    }
+
+    .link-adr {
+
+        font-style: normal;
+        color: #434455;
+        font-weight: 400;
+        font-size: 16px;
+        text-decoration: none;
+    }
+
+    .link-adr:hover {
+        color: #404BBF;
+    }
+
+    .link-adr:focus {
+        color: #404BBF;
+    }
+
+    .main-top {
+        background-color: #2E2F42;
+        line-height: 1.07142857143;
+    }
+
+    .title {
+        color: #fff;
+        text-align: center;
+        font-size: 56px;
+        font-weight: 700;
+    }
+
+    .button {
+        color: #fff;
+        background-color: #4D5AE5;
+        font-weight: 500;
+        font-size: 16px;
+    }
+
+    .button:hover {
+        background-color: #404BBF;
+    }
+
+    .button:focus {
+        background-color: #404BBF;
+    }
+
+    .team {
+        background-color: #2E2F42B2;
+    }
+
+    ul {
+        list-style-type: none;
+    }
+
+    h2 {
+        color: #2E2F42;
+        font-size: 36px;
+        font-weight: 700;
+        text-align: center;
+    }
+
+    h3 {
+        color: #2E2F42;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+    }
+
+    p {
+        color: #434455;
+    }
+
+    footer {
+        background-color: #2E2F42;
+    }
