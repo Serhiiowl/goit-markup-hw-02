@@ -2,7 +2,8 @@
         font-family: "Roboto", sans-serif;
         background-color: #ffffff;
         line-height: 1.5;
-        color: #434455
+        color: #434455;
+        letter-spacing: 0.32px;
     }
 
 
@@ -51,7 +52,6 @@
         font-size: 16px;
         font-style: bold;
         text-decoration: none;
-        letter-spacing: 0.32px;
     }
 
     .link-menu:hover {
@@ -63,18 +63,16 @@
     }
 
     .address {
+
         font-style: normal;
 
     }
 
     .link-adr {
-
-
         color: #434455;
         font-weight: 400;
         font-size: 16px;
         text-decoration: none;
-        letter-spacing: 0.32px;
     }
 
     .link-adr:hover {
@@ -124,10 +122,13 @@
     }
 
     ul {
+
+
         list-style-type: none;
     }
 
     .title-two {
+
         color: #2E2F42;
         font-size: 36px;
         font-weight: 700;
@@ -139,10 +140,12 @@
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
+        letter-spacing: 0.4px;
     }
 
     .info {
         color: #434455;
+
     }
 
     footer {
@@ -152,7 +155,7 @@
     .studio-footer {
         color: #F4F4FD;
         text-decoration: none;
-        line-height: 1.167;
+        line-height: 1.17;
     }
 
     .p-footer {
