@@ -6,8 +6,13 @@
         letter-spacing: 0.32px;
     }
 
+    ul {
 
 
+        list-style-type: none;
+    }
+
+    /* Header */
 
     .logo {
         color: #4D5AE5;
@@ -46,6 +51,7 @@
         line-height: 1.167;
     }
 
+    /* Menu */
     .link-menu {
         color: #2E2F42;
         font-weight: 500;
@@ -62,6 +68,7 @@
         color: #404BBF;
     }
 
+    /* Addres */
     .address {
 
         font-style: normal;
@@ -83,6 +90,8 @@
         color: #404BBF;
     }
 
+    /* Main One */
+
     .main-top {
         background-color: #2E2F42;
         line-height: 1.07142857143;
@@ -97,6 +106,7 @@
         letter-spacing: 1.12px;
     }
 
+    /* Button */
     .button {
         cursor: pointer;
         color: #fff;
@@ -117,15 +127,17 @@
         background-color: #404BBF;
     }
 
+    /* Main Two */
+
     .team {
         background-color: #F4F4FD;
     }
 
-    ul {
+    .info {
+        color: #434455;
 
-
-        list-style-type: none;
     }
+
 
     .title-two {
 
@@ -135,7 +147,7 @@
         text-align: center;
         text-transform: capitalize;
         line-height: 1.11;
-        letter-spacing: 0.32px;
+        letter-spacing: 0.72px;
 
     }
 
@@ -147,6 +159,12 @@
         letter-spacing: 0.4px;
     }
 
+    .team-back {
+        background-color: #ffffff;
+    }
+
+    /* Main Three */
+
     .title-port {
         color: #2E2F42;
         font-size: 36px;
@@ -154,17 +172,11 @@
         text-align: center;
         text-transform: capitalize;
         line-height: 1.11;
-        letter-spacing: 0.32px;
+        letter-spacing: 0.72px;
     }
 
-    .team-back {
-        background-color: #ffffff;
-    }
 
-    .info {
-        color: #434455;
-
-    }
+    /* Footer */
 
     .footer {
         background-color: #2E2F42;
