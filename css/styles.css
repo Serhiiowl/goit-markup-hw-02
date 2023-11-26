@@ -154,6 +154,10 @@
         letter-spacing: 0.32px;
     }
 
+    .team-back {
+        background-color: #ffffff;
+    }
+
     .info {
         color: #434455;
 
